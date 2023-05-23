@@ -1,0 +1,2 @@
+Prueba exitosa
+El texto leído es: MI TIENDA CABEZADA
